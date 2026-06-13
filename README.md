@@ -45,15 +45,3 @@ gui-unit-converter/
 
 ---
 
-## 🔮 Future Improvements
-
-* Add more conversion types
-* Better UI design
-* Dark mode support
-* Conversion history
-
----
-
-## 👨‍💻 Author
-
-Made with Python for learning and practice.
