@@ -42,6 +42,10 @@ gui-unit-converter/
 │── unit_converter.py
 │── README.md
 ```
-
+🔮 Future Improvements
+Add more conversion types
+Better UI design
+Dark mode support
+Conversion history
 ---
 
